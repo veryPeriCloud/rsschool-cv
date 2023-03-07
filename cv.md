@@ -1,6 +1,6 @@
 # Oyuna Zhigzhitzhapova
 
-![My photo](/images/pphoto.jpg)
+![My photo](/images/photo.jpg)
 
 ## My contacts
 * Location: Republic of Kazakhstan, Kostanay.
