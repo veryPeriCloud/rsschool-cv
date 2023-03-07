@@ -1,10 +1,13 @@
 # Oyuna Zhigzhitzhapova
 
+![My photo](/images/pphoto.jpg)
+
 ## My contacts
 * Location: Republic of Kazakhstan, Kostanay.
 * Telegram: @IamOyuna
 * Email: oyunafront@gmail.com
-* GitHub: veriPeriCloud
+* GitHub: [veriPeriCloud](https://github.com/veryPeriCloud)
+* Discord-nickname: Oyuna (@veryPeriCloud)
 
 ## About me
 I have little experience as a HTML/CSS developer, now I work as a junior front-end developer in a small IT startup. I want to improve my knowledge of JavaScript. Since the IT is developing very quickly, I think this phrase is very suitable: 
@@ -40,6 +43,12 @@ function betterThanAverage(classPoints, yourPoints) {
 
 * 09.2022 - 10.2022 - HTML/CSS developer in Web Studio Nextype (Stack: HTML, CSS/Less, JS, jQuery, CMS Bitrix)
 * 01.2023 - Present - junior Frontend developer in IT startup (Stack: HTML, CSS/SCSS/Taiwind CSS, Javascript, Vue.js, Nuxt.js).
+
+### Projects in GitHub
+* [Star wars](https://verypericloud.github.io/starWarsApp/)
+* [Order page](http://oyunafront-test.com.xsph.ru/)
+* [Images gallery](https://verypericloud.github.io/images-gallery/)
+
 
 ## Education
 
