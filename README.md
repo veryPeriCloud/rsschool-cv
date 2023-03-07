@@ -1,2 +1,2 @@
 # rsschool-cv
-https://veriPeriCloud.github.io/rsschool-cv/cv
+https://verypericloud.github.io/rsschool-cv/cv
