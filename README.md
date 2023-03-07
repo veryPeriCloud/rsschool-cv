@@ -1,3 +1,3 @@
-# rsschool-cv
-https://verypericloud.github.io/rsschool-cv/
-https://verypericloud.github.io/rsschool-cv/cv
+rsschool-cv
+* https://verypericloud.github.io/rsschool-cv/
+* https://verypericloud.github.io/rsschool-cv/cv
