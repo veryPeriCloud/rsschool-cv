@@ -7,15 +7,16 @@
 * GitHub: veriPeriCloud
 
 ## About me
-I have little experience as a layout designer, now I work as a junior front-end developer in a small IT startup. I want to improve my knowledge of javascript. Since the IT is developing very quickly, I think this phrase is very suitable: 
+I have little experience as a HTML/CSS developer, now I work as a junior front-end developer in a small IT startup. I want to improve my knowledge of JavaScript. Since the IT is developing very quickly, I think this phrase is very suitable: 
 >You need to run as fast just to stay in place, and to get somewhere, you need to run at least twice as fast! (Alice in Wonderland by Lewis Carroll)
+
 So I try not to stand still.
 
 ## My skills
 * HTML
 * CSS/SCSS/Tailwind CSS
-* Javascript (basic)
-* Vue.js (basic)
+* JavaScript (basic)
+* Vue.js (basic), Nuxt.js
 * Gulp
 * Git
 * Figma
@@ -34,3 +35,16 @@ function betterThanAverage(classPoints, yourPoints) {
   }
 };
 ```
+
+## Work experience
+
+* 09.2022 - 10.2022 - HTML/CSS developer in Web Studio Nextype (Stack: HTML, CSS/Less, JS, jQuery, CMS Bitrix)
+* 01.2023 - Present - junior Frontend developer in IT startup (Stack: HTML, CSS/SCSS/Taiwind CSS, Javascript, Vue.js, Nuxt.js).
+
+## Education
+
+* 2006-2011 - Tomsk State University of Control System and Radioelectronics
+* 2020-2022 - Online-university Skillbox
+
+## English
+Pre-Intermediate.
